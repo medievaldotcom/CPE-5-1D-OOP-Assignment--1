@@ -1,0 +1,17 @@
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\bin\Debug\netcoreapp3.1\assignment1.exe
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\bin\Debug\netcoreapp3.1\assignment1.deps.json
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\bin\Debug\netcoreapp3.1\assignment1.runtimeconfig.json
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\bin\Debug\netcoreapp3.1\assignment1.runtimeconfig.dev.json
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\bin\Debug\netcoreapp3.1\assignment1.dll
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\bin\Debug\netcoreapp3.1\assignment1.pdb
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.csproj.AssemblyReference.cache
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.csproj.GenerateResource.cache
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.AssemblyInfoInputs.cache
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.AssemblyInfo.cs
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.csproj.CoreCompileInputs.cache
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.dll
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.pdb
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.genruntimeconfig.cache
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.whatsmyname.resources
+D:\Github\Repository\CPE-5-1D-OOP-Assignment--1\Assignment1\assignment1\assignment1\obj\Debug\netcoreapp3.1\assignment1.Properties.Resources.resources
